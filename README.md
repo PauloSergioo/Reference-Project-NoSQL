@@ -1,4 +1,4 @@
-# Workshop Spring Boot MongoDB DevSuperior
+# Workshop Spring Boot MongoDB 
 
 Este é o material de apoio que disponibilizamos para nossos alunos.
 
@@ -141,8 +141,3 @@ https://docs.spring.io/spring-data/mongodb/docs/current/reference/html
 ### Localização dos volumes Docker no Windows
 
 https://stackoverflow.com/questions/43181654/locating-data-volumes-in-docker-desktop-windows
-
-### Vídeo sobre tratamento de exceções
-
-[![Image](https://img.youtube.com/vi/MAv7xgnSD-s/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/MAv7xgnSD-s)
-
