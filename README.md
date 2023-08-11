@@ -126,7 +126,7 @@ Consulta detalhada
 
 ## Recursos adicionais
 
-### Introdução NoSQL
+### Video referencia na introdução ao NoSQL
 
 [![Image](https://img.youtube.com/vi/c6h5eR0TvfU/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/c6h5eR0TvfU)
 
