@@ -89,8 +89,6 @@ userRepository.save(maria);
 
 ### Consulta detalhada, fullSearch filtrando por data
 
-# 
-
 ```json
 { 
 	$and: [ 
